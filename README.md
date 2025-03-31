@@ -29,3 +29,5 @@ In summary, this task involves building, evaluating, and visualizing a decision 
 
 #OUTPUT
 ![Image](https://github.com/user-attachments/assets/bb0ae9aa-edec-4d67-a78e-cc2c82d50dd6)
+
+![Image](https://github.com/user-attachments/assets/e6459590-34a8-49b8-84f4-45d1d8e19e95)
