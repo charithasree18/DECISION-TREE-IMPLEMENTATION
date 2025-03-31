@@ -27,3 +27,5 @@ This task is applicable in a wide range of real-world scenarios. Decision trees 
 
 In summary, this task involves building, evaluating, and visualizing a decision tree model using scikit-learn, with potential applications in a variety of fields that require classification and decision-making based on structured data.
 
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/bb0ae9aa-edec-4d67-a78e-cc2c82d50dd6)
